@@ -1,0 +1,52 @@
+.card__container {
+  width: 100%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  width: 70px;
+  height: 100px;
+  background-color: thistle;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.red--click {
+  background-color: red;
+}
+
+.green--click {
+  background-color: green;
+}
+
+.blue--click {
+  background-color: blue;
+}
+
+.yellow--click {
+  background-color: yellow;
+}
+
+.teal--click {
+  background-color: teal;
+}
+
+.tomato--click {
+  background-color: tomato;
+}
+
+.wheat--click {
+  background-color: wheat;
+}
+
+.palegreen--click {
+  background-color: palegreen;
+}
